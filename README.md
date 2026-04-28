@@ -1,13 +1,14 @@
 # careermode-hub-lua-export
-Lua export file for Aranaktu’s EAFC Live Editor. This script is used to export EA FC career mode data and prepare it for integration with the iOS app “CareerMode Hub”.
+
+Lua export files for Aranaktu’s EAFC Live Editor. These scripts are used to export EA FC career mode data and prepare it for integration with the iOS app **CareerMode Hub**.
 
 ## Purpose
 
-This repository contains Lua scripts that run inside the EAFC Live Editor on PC.  
+This repository contains Lua scripts that run inside the EAFC Live Editor on PC.
+
 The scripts export selected career mode data into JSON files, which can then be used by the CareerMode Hub iOS app or by a backend service.
 
-The iOS app does not execute these Lua scripts directly.  
-The scripts are only used as a PC-side export tool.
+The iOS app does not execute these Lua scripts directly. The scripts are only used as a PC-side export tool.
 
 ## Files
 
